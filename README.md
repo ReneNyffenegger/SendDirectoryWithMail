@@ -13,3 +13,6 @@ Therefore, the script changes the suffix of these files so that they can get thr
 
 [`receive_directory_from_outlook.pl`](https://github.com/ReneNyffenegger/SendDirectoryWithMail/blob/master/receive_directory_from_outlook.pl) get the zip file
 from Outlook, extracts it and changes the changed suffixes to their original.
+
+
+    receive_directory_from_outlook.pl c:\path\to\destination\directory
