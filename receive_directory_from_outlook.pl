@@ -41,7 +41,7 @@ sub process_attachment { # {{{
     my $dest_dir = shift;
 
 
-  # There should be only one attachment, so instaed of iterating
+  # There should be only one attachment, so instead of iterating
   # over the array returned by *...in, we just get the first
   #(and only?) attachment:
 
